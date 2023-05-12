@@ -10,3 +10,5 @@ Focused on:<br>
 • The performances of the model<br>
 
 ### The dataset is: https://www.kaggle.com/code/turkayavci/fraud-detection-on-bank-payments
+
+Professor's feedback: Good preprocessing step and the neural network concepts are well understood ! It might be interesting to do oversampling to improve your model.
