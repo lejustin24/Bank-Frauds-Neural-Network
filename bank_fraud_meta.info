@@ -1,0 +1,28 @@
+customer: Customer unique identifier.
+age: Age category of the customer.
+	'0' <=18
+	'1' 19-25
+	'2' 26-35
+	'3' 36-45
+	'4' 46-55
+	'5' 56-65
+	'6' >65
+	U Unknown
+gender: Gender of the customer.
+	E Entreprise
+	F Female
+	M Male
+	U Unknown
+zipcodeOri: /
+merchant: Id of the merchant.
+category: Nature of the transaction.
+	'es_transportation' Transport transaction
+	'es_food' Food transaction
+	'es_health' Health transaction
+	'es_wellnessandbeauty' Wellness and beauty transaction
+	'es_fashion' Fashion transaction
+zipMerchant: /
+amount: Price.
+fraud: the target.
+	0 not a fraud
+	1 fraud
