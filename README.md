@@ -7,4 +7,6 @@ Focused on:<br>
 • The building of the neural network<br>
 • The use of the tools seen in class <br>
 • The quality of the Notebook (comments, structure ...)<br>
-• The performances of the model
+• The performances of the model<br>
+
+### The dataset is: https://www.kaggle.com/code/turkayavci/fraud-detection-on-bank-payments
