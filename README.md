@@ -9,6 +9,6 @@ Focused on:<br>
 • The quality of the Notebook (comments, structure ...)<br>
 • The performances of the model<br>
 
-### The dataset is: https://www.kaggle.com/code/turkayavci/fraud-detection-on-bank-payments
+### The dataset is: https://www.kaggle.com/datasets/ealaxi/banksim1
 
 Professor's feedback: Good preprocessing step and the neural network concepts are well understood ! It might be interesting to do oversampling to improve your model.
